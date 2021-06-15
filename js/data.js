@@ -14,10 +14,10 @@ var innovation = {
    "id": "innovation",            
    "name": "Innovation Line",
    "url": "https://innovation.com.mx/",
-   "miniature": "background-image: url(../sitio/images/projects/innovation_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/innovation_min.jpg);",
    "images":[
       {
-         "url": "../sitio/images/projects/innovation.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/innovation.jpg",
          "name": "innovation.jpg"
       }  
    ],
@@ -38,22 +38,22 @@ var petronas = {
    "id": "petronas",            
    "name": "PETRONAS México",
    "url": "http://granpremiopetronas.com/",
-   "miniature": "background-image: url(../sitio/images/projects/petronas_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/petronas_min.jpg);",
    "images":[
       {
-         "url": "../sitio/images/projects/granpremiopetronas_site.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/granpremiopetronas_site.jpg",
          "name": "granpremiopetronas_site.jpg"
       },
       {
-         "url": "../sitio/images/projects/intranet.granpremiopetronas.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/intranet.granpremiopetronas.jpg",
          "name": "intranet.granpremiopetronas.jpg"
       },
       {
-         "url": "../sitio/images/projects/intranet_granpremiopetronas_2.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/intranet_granpremiopetronas_2.jpg",
          "name": "intranet_granpremiopetronas_2.jpg"
       },
       {
-         "url": "../sitio/images/projects/intranet_granpremiopetronas_3.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/intranet_granpremiopetronas_3.jpg",
          "name": "intranet_granpremiopetronas_3.jpg"
       }  
    ],
@@ -74,10 +74,10 @@ var cid = {
    "id": "cid",            
    "name": "CID Insumos Digitales",
    "url": "https://cidinsumosdigitales.com.mx/",
-   "miniature": "background-image: url(../sitio/images/projects/cid_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/cid_min.jpg);",
    "images":[
       {
-         "url": "../sitio/images/projects/cidinsumosdigitales.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/cidinsumosdigitales.jpg",
          "name": "cidinsumosdigitales.jpg"
       }  
    ],
@@ -98,18 +98,18 @@ var mtm = {
    "id": "mtm",            
    "name": "MTM | Demo",
    "url": false,
-   "miniature": "background-image: url(../sitio/images/projects/mtm_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mtm_min.jpg);",
    "images":[
       {
-         "url": "../sitio/images/projects/mtm_home.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_home.jpg",
          "name": "mtm_home.jpg"
       },
       {
-         "url": "../sitio/images/projects/mtm_products.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_products.jpg",
          "name": "mtm_products.jpg"
       },
       {
-         "url": "../sitio/images/projects/mtm_theme.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_theme.jpg",
          "name": "mtm_theme.jpg"
       }  
    ],
@@ -130,30 +130,30 @@ var mycavi = {
    "id": "mycavi",            
    "name": "MyCavi | Demo",
    "url": false,
-   "miniature": "background-image: url(../sitio/images/projects/mycavi_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mycavi_min.jpg);",
    "images":[
       {
-         "url": "../sitio/images/projects/mycavi_home.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_home.jpg",
          "name": "mycavi_home.jpg"
       },
       {
-         "url": "../sitio/images/projects/mycavi_home_responsive.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_home_responsive.jpg",
          "name": "mycavi_home_responsive.jpg"
       },
       {
-         "url": "../sitio/images/projects/mycavi_products.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_products.jpg",
          "name": "mycavi_products.jpg"
       },
       {
-         "url": "../sitio/images/projects/mycavi_profile.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_profile.jpg",
          "name": "mycavi_profile.jpg"
       },
       {
-         "url": "../sitio/images/projects/mycavi_dash.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_dash.jpg",
          "name": "mycavi_dash.jpg"
       },
       {
-         "url": "../sitio/images/projects/mycavi_admin.jpg",
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_admin.jpg",
          "name": "mycavi_admin.jpg"
       }    
    ],
