@@ -94,6 +94,30 @@ var cid = {
       "en": "Development of landing page in WordPress with custom theme. With the use of PHP, JavaScript, CSS and HTML languages. More support from Bootstrap, AOS and JQuery libraries."
    }
 };
+var geefit = {
+   "id": "geefit",            
+   "name": "Gee Fit Store",
+   "url": "https://gee-fit-store.myshopify.com/",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/geefit_min.jpg);",
+   "images":[
+      {
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/gee_fit.jpg",
+         "name": "gee_fit.jpg"
+      }  
+   ],
+   "type": {
+      "es": "Sitio E-commerce",
+      "en": "Site E-commerce"
+   },
+   "extract": {
+      "es": "Desarrollo de tema en Shopify",
+      "en": "Development and theme design in Shopify"
+   },
+   "description": {
+      "es": "Desarrollo y apoyo en el diseño de tema en Shopify. Con el uso de lenguajes Liquid,JavaScript, CSS, SASS y HTML. Más apoyo de las librerias Bootstrap, AOS y JQuery, asi como el uso de la API de Shopify.",
+      "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap, AOS and JQuery libraries, as well as the use of the Shopify API."
+   }
+};
 var mtm = {
    "id": "mtm",            
    "name": "MTM | Demo",
@@ -233,7 +257,7 @@ const data = {
          "es": "Ver más",
          "en": "See more"
       },
-      "projects": [innovation,petronas,cid,mtm,mycavi]
+      "projects": [innovation,petronas,cid,geefit,mtm,mycavi]
    }
 };
 
@@ -245,6 +269,7 @@ var allprojects = {
    "innovation": innovation,
    "petronas": petronas,
    "cid": cid,
+   "geefit": geefit,
    "mtm": mtm,
    "mycavi": mycavi,
 }
