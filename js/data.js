@@ -103,7 +103,11 @@ var geefit = {
       {
          "url": "https://violetaramos.github.io/violetaramos/images/projects/gee_fit.jpg",
          "name": "gee_fit.jpg"
-      }  
+      },
+      {
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/geefit_products.jpg",
+         "name": "geefit_products.jpg"
+      } 
    ],
    "type": {
       "es": "Sitio E-commerce",
