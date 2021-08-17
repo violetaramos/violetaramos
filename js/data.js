@@ -122,36 +122,32 @@ var geefit = {
       "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap, AOS and JQuery libraries, as well as the use of the Shopify API."
    }
 };
-var mtm = {
-   "id": "mtm",            
-   "name": "MTM | Demo",
-   "url": false,
-   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mtm_min.jpg);",
+var alcoba = {
+   "id": "alcoba",            
+   "name": "Alcoba Azul",
+   "url": "https://alcobaazul.mx/",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/alcoba_min.jpg);",
    "images":[
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_home.jpg",
-         "name": "mtm_home.jpg"
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/alcoba.jpg",
+         "name": "alcoba.jpg"
       },
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_products.jpg",
-         "name": "mtm_products.jpg"
-      },
-      {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mtm_theme.jpg",
-         "name": "mtm_theme.jpg"
-      }  
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/alcoba_responsive.jpg",
+         "name": "alcoba_responsive.jpg"
+      } 
    ],
    "type": {
       "es": "Sitio E-commerce",
       "en": "Site E-commerce"
    },
    "extract": {
-      "es": "Desarrollo y diseño tema en Shopify",
+      "es": "Desarrollo de tema en Shopify",
       "en": "Development and theme design in Shopify"
    },
    "description": {
-      "es": "Desarrollo y diseño de tema en Shopify. Con el uso de lenguajes Liquid,JavaScript, CSS, SASS y HTML. Más apoyo de las librerias Bootstrap, AOS y JQuery, asi como el uso de la API de Shopify.",
-      "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap, AOS and JQuery libraries, as well as the use of the Shopify API."
+      "es": "Desarrollo y apoyo en el diseño de tema en Shopify. Con el uso de lenguajes Liquid,JavaScript, CSS, SASS y HTML. Más apoyo de las librerias Bootstrap y AOS, asi como el uso de la API de Shopify.",
+      "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap and AOS libraries, as well as the use of the Shopify API."
    }
 };
 var mycavi = {
@@ -261,7 +257,7 @@ const data = {
          "es": "Ver más",
          "en": "See more"
       },
-      "projects": [innovation,petronas,cid,geefit,mtm,mycavi]
+      "projects": [innovation,petronas,cid,geefit,alcoba,mycavi]
    }
 };
 
@@ -274,6 +270,6 @@ var allprojects = {
    "petronas": petronas,
    "cid": cid,
    "geefit": geefit,
-   "mtm": mtm,
+   "alcoba": alcoba,
    "mycavi": mycavi,
 }
