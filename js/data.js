@@ -170,7 +170,7 @@ var myrightmood = {
    "id": "myrightmood",
    "name": "My Right Mood",
    "url": 'https://myrightmood.com',
-   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mrm_min.jpg);",
+   "miniature": "background-image: url(https://raw.githubusercontent.com/violetaramos/violetaramos/main/images/projects/mrm_min.jpg);",
    "images": [
       {
          "url": "https://violetaramos.github.io/violetaramos/images/projects/mrm_home.jpg",
