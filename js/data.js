@@ -1,13 +1,13 @@
 var console_txt_es = {
    'p1': "C:\134  ¡Hola!",
    'p2': "C:\134  Soy Violeta Ramos, desarrolladora web.",
-   'p3': "C:\134  Tengo 3 años de experiencia trabajando en el desarrollo y mantenimiento de sitios web, e-commerce, sistemas de información (ERP, CRM), landing pages, mailing, optimización de sitios web, conocimiento de SEO, creación de temas personalizados para WordPress y Shopify, bajo el uso de lenguajes como PHP, Liquid, JavaScript, CSS, HTML y JQuery.",
+   'p3': "C:\134  Tengo 4 años de experiencia trabajando en el desarrollo y mantenimiento de sitios web, e-commerce, sistemas de información (ERP, CRM), landing pages, mailing, optimización de sitios web, conocimiento de SEO, creación de temas personalizados para WordPress y Shopify, bajo el uso de lenguajes como PHP, Liquid, JavaScript, CSS, HTML y JQuery.",
    'p4': "C:\134  Con el uso de tecnologías como WordPress, Shopify, Laravel y MyCavi (MVC framework en PHP de la empresa en la que actualmente trabajo basado en POO)."
 }
 var console_txt_en = {
    'p1': "C:\134  Hi!",
    'p2': "C:\134  I'm Violeta Ramos, web developer",
-   'p3': "C:\134  I have 3 years of experience working in the development and maintenance of websites, e-commerce, information systems (ERP, CRM), landing pages, mailing, website optimization, SEO knowledge, creation of custom themes for WordPress and Shopify , under the use of languages such as PHP, Liquid, JavaScript, CSS, HTML and JQuery.",
+   'p3': "C:\134  I have 4 years of experience working in the development and maintenance of websites, e-commerce, information systems (ERP, CRM), landing pages, mailing, website optimization, SEO knowledge, creation of custom themes for WordPress and Shopify , under the use of languages such as PHP, Liquid, JavaScript, CSS, HTML and JQuery.",
    'p4': "C:\134  With the use of technologies such as WordPress, Shopify, Laravel and MyCavi (MVC framework in PHP of the company where I currently work based on OOP)."
 }
 var innovation = {
@@ -70,30 +70,6 @@ var petronas = {
       "en": "Website developed in WordPress with a custom theme. Design and development of Intranet Interface in MyCavi (MVC framework of Telaio based on OOP). With the use of PHP, JavaScript, CSS and HTML languages. More support from Bootstrap and JQuery libraries."
    }
 };
-var cid = {
-   "id": "cid",            
-   "name": "CID Insumos Digitales",
-   "url": "https://cidinsumosdigitales.com.mx/",
-   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/cid_min.jpg);",
-   "images":[
-      {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/cidinsumosdigitales.jpg",
-         "name": "cidinsumosdigitales.jpg"
-      }  
-   ],
-   "type": {
-      "es": "Landing Page",
-      "en": "Landing Page"
-   },
-   "extract": {
-      "es": "Desarrollo de landing page en WordPress",
-      "en": "WordPress landing page development"
-   },
-   "description": {
-      "es": "Desarrollo de landing page en WordPress con tema customizado. Con el uso de los lenguajes PHP, JavaScript, CSS y HTML. Más apoyo de las librerias Bootstrap, AOS y JQuery.",
-      "en": "Development of landing page in WordPress with custom theme. With the use of PHP, JavaScript, CSS and HTML languages. More support from Bootstrap, AOS and JQuery libraries."
-   }
-};
 var geefit = {
    "id": "geefit",            
    "name": "Gee Fit Store",
@@ -103,11 +79,7 @@ var geefit = {
       {
          "url": "https://violetaramos.github.io/violetaramos/images/projects/gee_fit.jpg",
          "name": "gee_fit.jpg"
-      },
-      {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/geefit_products.jpg",
-         "name": "geefit_products.jpg"
-      } 
+      }  
    ],
    "type": {
       "es": "Sitio E-commerce",
@@ -194,6 +166,34 @@ var mycavi = {
       "en": "Design, frontend development and support in the backend development of website and administrator of MyCavi (Telaio Service) in Laravel. With the use of PHP, JavaScript, CSS and HTML languages. More support from Vue and Bootstrap 5 libraries."
    }
 };
+var myrightmood = {
+   "id": "myrightmood",
+   "name": "My Right Mood",
+   "url": 'https://myrightmood.com',
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mrm_min.jpg);",
+   "images": [
+      {
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mrm_home.jpg",
+         "name": "mrm_home.jpg"
+      },
+      {
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/mrm_responsive.jpg",
+         "name": "mrm_responsive.jpg"
+      }
+   ],
+   "type": {
+      "es": "Sitio E-commerce",
+      "en": "Site E-commerce"
+   },
+   "extract": {
+      "es": "Desarrollo de tema en Shopify",
+      "en": "Development and theme design in Shopify"
+   },
+   "description": {
+      "es": "Desarrollo y apoyo en el diseño de tema en Shopify. Con el uso de lenguajes Liquid,JavaScript, CSS, SASS y HTML. Más apoyo de las librerias Bootstrap y AOS, asi como el uso de la API de Shopify.",
+      "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap and AOS libraries, as well as the use of the Shopify API."
+   }
+};
 
 const data = {
    "config" : {
@@ -257,7 +257,7 @@ const data = {
          "es": "Ver más",
          "en": "See more"
       },
-      "projects": [innovation,petronas,cid,geefit,alcoba,mycavi]
+      "projects": [innovation,petronas,geefit,alcoba,mycavi,myrightmood]
    }
 };
 
@@ -268,8 +268,8 @@ var allprojects = {
    },
    "innovation": innovation,
    "petronas": petronas,
-   "cid": cid,
    "geefit": geefit,
    "alcoba": alcoba,
    "mycavi": mycavi,
+   "myrightmood": myrightmood
 }
