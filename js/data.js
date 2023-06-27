@@ -125,7 +125,7 @@ var alcoba = {
 var cobego = {
    "id": "cobego",            
    "name": "MyCavi | Cobego",
-   "url": false,
+   "url": "https://cobego.com.mx",
    "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/cobego_min.jpg);",
    "images":[
       {
