@@ -1,13 +1,13 @@
 var console_txt_es = {
    'p1': "C:\134  ¡Hola!",
    'p2': "C:\134  Soy Violeta Ramos, desarrolladora web.",
-   'p3': "C:\134  Tengo 4 años de experiencia trabajando en el desarrollo y mantenimiento de sitios web, e-commerce, sistemas de información (ERP, CRM), landing pages, mailing, optimización de sitios web, conocimiento de SEO, creación de temas personalizados para WordPress y Shopify, bajo el uso de lenguajes como PHP, Liquid, JavaScript, CSS, HTML y JQuery.",
+   'p3': "C:\134  Tengo 5 años de experiencia trabajando en el desarrollo y mantenimiento de sitios web, e-commerce, sistemas de información (ERP, CRM), landing pages, mailing, optimización de sitios web, conocimiento de SEO, creación de temas personalizados para WordPress y Shopify, bajo el uso de lenguajes como PHP, Liquid, JavaScript, CSS, HTML y JQuery.",
    'p4': "C:\134  Con el uso de tecnologías como WordPress, Shopify, Laravel y MyCavi (MVC framework en PHP de la empresa en la que actualmente trabajo basado en POO)."
 }
 var console_txt_en = {
    'p1': "C:\134  Hi!",
    'p2': "C:\134  I'm Violeta Ramos, web developer",
-   'p3': "C:\134  I have 4 years of experience working in the development and maintenance of websites, e-commerce, information systems (ERP, CRM), landing pages, mailing, website optimization, SEO knowledge, creation of custom themes for WordPress and Shopify , under the use of languages such as PHP, Liquid, JavaScript, CSS, HTML and JQuery.",
+   'p3': "C:\134  I have 5 years of experience working in the development and maintenance of websites, e-commerce, information systems (ERP, CRM), landing pages, mailing, website optimization, SEO knowledge, creation of custom themes for WordPress and Shopify , under the use of languages such as PHP, Liquid, JavaScript, CSS, HTML and JQuery.",
    'p4': "C:\134  With the use of technologies such as WordPress, Shopify, Laravel and MyCavi (MVC framework in PHP of the company where I currently work based on OOP)."
 }
 var innovation = {
@@ -122,36 +122,28 @@ var alcoba = {
       "en": "Development and theme design in Shopify. With the use of Liquid, JavaScript, CSS, SASS and HTML languages. More support for the Bootstrap and AOS libraries, as well as the use of the Shopify API."
    }
 };
-var mycavi = {
-   "id": "mycavi",            
-   "name": "MyCavi | Demo",
+var cobego = {
+   "id": "cobego",            
+   "name": "MyCavi | Cobego",
    "url": false,
-   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/mycavi_min.jpg);",
+   "miniature": "background-image: url(https://violetaramos.github.io/violetaramos/images/projects/cobego_min.jpg);",
    "images":[
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_home.jpg",
-         "name": "mycavi_home.jpg"
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/cobego_home.jpg",
+         "name": "cobego_home.jpg"
       },
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_home_responsive.jpg",
-         "name": "mycavi_home_responsive.jpg"
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/cobego_adm.png",
+         "name": "cobego_adm.png"
       },
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_products.jpg",
-         "name": "mycavi_products.jpg"
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/cobego_dash.png",
+         "name": "cobego_dash.png"
       },
       {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_profile.jpg",
-         "name": "mycavi_profile.jpg"
-      },
-      {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_dash.jpg",
-         "name": "mycavi_dash.jpg"
-      },
-      {
-         "url": "https://violetaramos.github.io/violetaramos/images/projects/mycavi_admin.jpg",
-         "name": "mycavi_admin.jpg"
-      }    
+         "url": "https://violetaramos.github.io/violetaramos/images/projects/cobego_adm2.png",
+         "name": "cobego_adm2.png"
+      }   
    ],
    "type": {
       "es": "Sitio Web y Panel de Administrador",
@@ -162,8 +154,8 @@ var mycavi = {
       "en": "Development and design in Laravel"
    },
    "description": {
-      "es": "Diseño, desarrollo frontend y apoyo en el desarrollo backend de sitioweb y administrator de MyCavi (Servicio de Telaio) en Laravel. Con el uso de los lenguajes PHP, JavaScript, CSS y HTML. Más apoyo de las librerias Vue y Bootstrap 5.",
-      "en": "Design, frontend development and support in the backend development of website and administrator of MyCavi (Telaio Service) in Laravel. With the use of PHP, JavaScript, CSS and HTML languages. More support from Vue and Bootstrap 5 libraries."
+      "es": "Diseño, desarrollo frontend y apoyo en el desarrollo backend de sitioweb y administrator en Laravel. Con el uso de los lenguajes PHP, JavaScript, CSS y HTML. Más apoyo de las librerias Vue y Bootstrap.",
+      "en": "Design, frontend development and support in the backend development of website and administrator in Laravel. With the use of PHP, JavaScript, CSS and HTML languages. More support from Vue and Bootstrap libraries."
    }
 };
 var myrightmood = {
@@ -257,7 +249,7 @@ const data = {
          "es": "Ver más",
          "en": "See more"
       },
-      "projects": [innovation,petronas,geefit,alcoba,mycavi,myrightmood]
+      "projects": [innovation,petronas,geefit,alcoba,cobego,myrightmood]
    }
 };
 
@@ -270,6 +262,6 @@ var allprojects = {
    "petronas": petronas,
    "geefit": geefit,
    "alcoba": alcoba,
-   "mycavi": mycavi,
+   "cobego": cobego,
    "myrightmood": myrightmood
 }
