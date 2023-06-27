@@ -249,7 +249,7 @@ const data = {
          "es": "Ver más",
          "en": "See more"
       },
-      "projects": [innovation,petronas,geefit,alcoba,cobego,myrightmood]
+      "projects": [alcoba,cobego,myrightmood,innovation,petronas,geefit]
    }
 };
 
